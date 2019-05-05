@@ -85,11 +85,14 @@ a:hover {
 }
 
 
-
 .post-author img {
  width: 50px;
  height: 50px;
  vertical-align: middle;
+ border-radius: 50%;
+}
+
+.about-author img {
  border-radius: 50%;
 }
 
